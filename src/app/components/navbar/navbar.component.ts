@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: 'navbar.component.html'
 })
 export class NavbarComponent  { 
-  branding = 'Angular2 Demo';
+  branding = 'Angular2 Github Search';
 }
