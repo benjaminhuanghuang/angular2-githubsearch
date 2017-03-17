@@ -10,3 +10,4 @@ import { GithubServcies } from './services/github.service'
 export class AppComponent {
   title = 'app works!';
 }
+ 

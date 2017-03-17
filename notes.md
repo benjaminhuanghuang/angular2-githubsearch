@@ -3,4 +3,7 @@
     https://www.youtube.com/watch?v=HYZHZgpkmIE&list=PLD1N4psMuuzcD8acRixuGKUyOpiQeOP3O&index=5#t=8.83849
 
 
-##
+## Use bootstrap component
+    gethootstrap.com -> Components -> Panels -> Panel with heading
+    gethootstrap.com -> Components -> Labels
+

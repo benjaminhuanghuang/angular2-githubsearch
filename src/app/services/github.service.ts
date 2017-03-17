@@ -9,7 +9,8 @@ export class GithubServcies{
     private client_sectet: string = "279ce2e557f793875525912735e93b4400b92357";
 
     constructor(private _http: Http){
-        this.username = 'benjaminhuanghuang';
+        //this.username = 'benjaminhuanghuang';
+        this.username = 'hr2204';
     }
 
     getUser(){
